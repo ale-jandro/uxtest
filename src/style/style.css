@@ -1,0 +1,49 @@
+.ch-carousel-prev:after {
+  content: "\f053";
+  left: 17px;
+}
+
+.ch-carousel-next:after {
+  content: "\f054";
+  right: 17px;
+}
+.titulo{
+    font-size: 30px;
+    font-weight: 700;
+    margin: 30px 30px;
+}
+
+.precio{
+    color: #ca0c02;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px; 
+}
+
+label{
+    font-size: 17px;
+}
+.product{
+    width: 100%;
+    float: left;
+    height: auto;
+}
+.tele{
+    width: 400px;
+    height: 400px;
+}
+.productos-img{
+   display: inline-block; 
+}
+.productos-info{
+    margin-left: 20px;           
+    width: 800px;
+    display: inline-block;
+}
+.carru{
+
+    margin-top: 50px;
+    text-align: center;
+    height: 50px;
+}
+
